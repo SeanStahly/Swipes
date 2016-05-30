@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Swipes</string>
+    <string name="app_name_caps">SWIPES</string>
+    <string name="menu_play">PLAY</string>
+    <string name="menu_settings">SETTINGS</string>
+    <string name="menu_high_scores">HIGH SCORES</string>
 </resources>
